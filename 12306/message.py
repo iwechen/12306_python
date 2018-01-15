@@ -1,7 +1,7 @@
 #12306 登录用户名
-userName = '1639663168@qq.com'
+userName = ''
 #12306 登录密码
-password = 'cw913288'
+password = ''
 #12306 验证码本地地址
 captchaDownloadName = 'captcha.png'
 #12306 站名代码存放地址
